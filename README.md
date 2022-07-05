@@ -1,16 +1,8 @@
 # ropstam_flutter_task
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # design pattern used: MVVM 
+ # authentication is propely managed. 
+ # internet connections check are also included.
+ # post and get api's integrated.
+ # user session is also tackled.
+ #short demo video is included in git repo with name app_demo.mp4
+ 
